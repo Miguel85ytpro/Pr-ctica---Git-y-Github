@@ -1,4 +1,4 @@
-# Pr-ctica---Git-y-Github
+# Practica---Git-y-Github
 **Nombre:** Miguel Ángel Cárcamo Limón  
 **Correo:** 24308060610616@cetis61.edu.mx  
 **Escuela:** Cetis #61  
